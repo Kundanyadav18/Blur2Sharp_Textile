@@ -4,3 +4,4 @@ numpy
 Pillow
 rembg
 streamlit-extras
+onnxruntime
